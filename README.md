@@ -2,6 +2,8 @@
 
 <img align="right" width="159px" src="https://raw.githubusercontent.com/fshiori/kuromi/main/kuromies_icon04.png">
 
+[![GoDoc](https://godoc.org/github.com/fshiori/kuromi?status.svg)](https://godoc.org/github.com/fshiori/kuromi)
+
 > Minimalist websocket framework for Go.
 > 世界クロミ化計画
 
